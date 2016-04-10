@@ -1,0 +1,14 @@
+{
+	"category" : "Dependencies-for-a-rest-implementation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DataBase",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
